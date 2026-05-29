@@ -1,0 +1,6 @@
+{
+  "name": "영흥분무기",
+  "description": "50년 전통의 동력분무기 및 피스톤펌프 전문 생산기업 영흥분무기 공식 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
